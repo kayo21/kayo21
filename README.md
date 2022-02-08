@@ -1,1 +1,3 @@
-hello im learning js
+/home/kay
+
+prunt("hey there")
