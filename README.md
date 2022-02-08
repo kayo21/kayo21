@@ -1,3 +1,3 @@
 /home/kay
 
-prunt("hey there")
+print("hey there")
